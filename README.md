@@ -1,6 +1,6 @@
 # Linkedin Scraper
 
-Scrapes Linkedin User Data
+Scrapes Linkedin User Data; PURELY FOR EDUCATIONAL PURPOSE! This is against TOS, technically.
 
 
 ## Setup
